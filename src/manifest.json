@@ -1,0 +1,10 @@
+{
+	"id": "obsidian-webpack-template",
+	"name": "Obsidian Webpack Template",
+	"version": "0.0.1",
+	"minAppVersion": "0.15.0",
+	"description": "This is a template for building Obsidian plugins.",
+	"author": "Obsidian <author@example.com>",
+	"authorUrl": "https://obsidian.md",
+	"isDesktopOnly": false
+}
